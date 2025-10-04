@@ -1,0 +1,53 @@
+{
+  "events": [
+    {
+      "scheduleTime": "2025-01-15T08:00:00Z",
+      "teamName": "Iron Warriors",
+      "arena": "Arena A",
+      "lane": "Lane 1",
+      "details": {
+        "teamMembers": ["John Doe", "Jane Smith"],
+        "category": "RX Mixed",
+        "duration": 15,
+        "WOD": "For Time:\n21-15-9\n- Thrusters (95/65 lb)\n- Pull-ups\n- Box Jumps (24/20 in)"
+      }
+    },
+    {
+      "scheduleTime": "2025-01-15T08:20:00Z",
+      "teamName": "Beast Mode",
+      "arena": "Arena A",
+      "lane": "Lane 2",
+      "details": {
+        "teamMembers": ["Mike Johnson", "Sarah Williams"],
+        "category": "RX Mixed",
+        "duration": 15,
+        "WOD": "For Time:\n21-15-9\n- Thrusters (95/65 lb)\n- Pull-ups\n- Box Jumps (24/20 in)"
+      }
+    },
+    {
+      "scheduleTime": "2025-01-15T08:40:00Z",
+      "teamName": "CrossFit Legends",
+      "arena": "Arena B",
+      "lane": "Lane 1",
+      "details": {
+        "teamMembers": ["Chris Brown", "Emily Davis"],
+        "category": "Scaled Mixed",
+        "duration": 20,
+        "WOD": "AMRAP 12 min:\n- 10 Kettlebell Swings (53/35 lb)\n- 10 Wall Balls (20/14 lb)\n- 10 Burpees"
+      }
+    },
+    {
+      "scheduleTime": "2025-01-15T09:00:00Z",
+      "teamName": "The Grinders",
+      "arena": "Arena B",
+      "lane": "Lane 2",
+      "details": {
+        "teamMembers": ["Alex Martinez", "Lisa Anderson"],
+        "category": "Scaled Mixed",
+        "duration": 20,
+        "WOD": "AMRAP 12 min:\n- 10 Kettlebell Swings (53/35 lb)\n- 10 Wall Balls (20/14 lb)\n- 10 Burpees"
+      }
+    }
+  ]
+}
+
