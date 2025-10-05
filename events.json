@@ -1,53 +1,304 @@
 {
   "events": [
     {
-      "scheduleTime": "2025-01-15T08:00:00Z",
-      "teamName": "Iron Warriors",
-      "arena": "Arena A",
-      "lane": "Lane 1",
+      "scheduleTime": "2025-10-05T07:00:00",
+      "teamName": "Todo mundo",
+      "arena": "Rua",
+      "lane": "",
       "details": {
-        "teamMembers": ["John Doe", "Jane Smith"],
-        "category": "RX Mixed",
-        "duration": 15,
-        "WOD": "For Time:\n21-15-9\n- Thrusters (95/65 lb)\n- Pull-ups\n- Box Jumps (24/20 in)"
+        "teamMembers": ["Todo mundo"],
+        "category": "",
+        "duration": 0,
+        "WOD": "Inciante (trios) \n1.5km \nScaled (trios) \n3km \nIntermediário/Master (individual/trios) \n4.5km \nRX (individual/trios) \n6km"
       }
     },
     {
-      "scheduleTime": "2025-01-15T08:20:00Z",
-      "teamName": "Beast Mode",
-      "arena": "Arena A",
-      "lane": "Lane 2",
+      "scheduleTime": "2025-10-05T08:42:00",
+      "teamName": "Parede suja chão sujo",
+      "arena": "Pavilhão",
+      "lane": "7",
       "details": {
-        "teamMembers": ["Mike Johnson", "Sarah Williams"],
-        "category": "RX Mixed",
-        "duration": 15,
-        "WOD": "For Time:\n21-15-9\n- Thrusters (95/65 lb)\n- Pull-ups\n- Box Jumps (24/20 in)"
+        "teamMembers": ["Luke", "Guizão", "Carina"],
+        "category": "Inciante",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n6 Snatch (1 ateta hold dead hang) \n12 overhead squat (1 ateta hold dead hang) \n18 push up down dog (syncro 2) \n60 single under"
       }
     },
     {
-      "scheduleTime": "2025-01-15T08:40:00Z",
-      "teamName": "CrossFit Legends",
-      "arena": "Arena B",
-      "lane": "Lane 1",
+      "scheduleTime": "2025-10-05T08:54:00",
+      "teamName": "Matheus",
+      "arena": "Externa",
+      "lane": "2",
       "details": {
-        "teamMembers": ["Chris Brown", "Emily Davis"],
-        "category": "Scaled Mixed",
-        "duration": 20,
-        "WOD": "AMRAP 12 min:\n- 10 Kettlebell Swings (53/35 lb)\n- 10 Wall Balls (20/14 lb)\n- 10 Burpees"
+        "teamMembers": ["Matheus"],
+        "category": "Iniciante",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nSandbag deadlift \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m sandbag bear hug \n1min off \nEstação 3 \nMáximo calorias remo"
       }
     },
     {
-      "scheduleTime": "2025-01-15T09:00:00Z",
-      "teamName": "The Grinders",
-      "arena": "Arena B",
-      "lane": "Lane 2",
+      "scheduleTime": "2025-10-05T09:02:00",
+      "teamName": "Aninha",
+      "arena": "Externa",
+      "lane": "3",
       "details": {
-        "teamMembers": ["Alex Martinez", "Lisa Anderson"],
-        "category": "Scaled Mixed",
-        "duration": 20,
-        "WOD": "AMRAP 12 min:\n- 10 Kettlebell Swings (53/35 lb)\n- 10 Wall Balls (20/14 lb)\n- 10 Burpees"
+        "teamMembers": ["Aninha"],
+        "category": "Scaled",
+        "duration": 10,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nSandbag clean \nBurpee over the sandbah \n1min off \nEstação 2 \n20 air squats \n20m sandbag bear hug \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T09:18:00",
+      "teamName": "Team Penta",
+      "arena": "Pavilhão",
+      "lane": "6",
+      "details": {
+        "teamMembers": ["Ari", "Isa", "Karen"],
+        "category": "Scaled",
+        "duration": 10,
+        "WOD": "Hang time \nAMRAP 9 min \n6 Snatch (1 ateta hold dead hang) \n12 overhead squat (1 ateta hold dead hang) \n18 kipping pull ups (syncro 2) \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T10:06:00",
+      "teamName": "Jump queridos",
+      "arena": "Pavilhão",
+      "lane": "4",
+      "details": {
+        "teamMembers": ["Otavio", "Rafa", "Paulinha"],
+        "category": "Intermediário",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n6 Snatch (2 atetas hold dead hang) \n12 overhead squat (2 ateta hold dead hang) \n18 chest to bar (syncro 2) \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T10:18:00",
+      "teamName": "Ana Ju",
+      "arena": "Externa",
+      "lane": "5",
+      "details": {
+        "teamMembers": ["Ana Ju"],
+        "category": "Intermediário",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nSandbag clean and jerk \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m barril farm carry \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T10:18:00",
+      "teamName": "Thata",
+      "arena": "Externa",
+      "lane": "1",
+      "details": {
+        "teamMembers": ["Thata"],
+        "category": "Intermediário",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nSandbag clean and jerk \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m barril farm carry \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T10:22:00",
+      "teamName": "Jé",
+      "arena": "Externa",
+      "lane": "3",
+      "details": {
+        "teamMembers": ["Jé"],
+        "category": "Intermediário",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nSandbag clean and jerk \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m barril farm carry \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T10:34:00",
+      "teamName": "Eli",
+      "arena": "Externa",
+      "lane": "2",
+      "details": {
+        "teamMembers": ["Eli"],
+        "category": "Master 35+",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nSandbag clean and jerk \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m barril farm carry \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T10:54:00",
+      "teamName": "Thiago",
+      "arena": "Externa",
+      "lane": "1",
+      "details": {
+        "teamMembers": ["Thiago"],
+        "category": "Intermediário",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nSandbag clean and jerk \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m barril farm carry \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T11:30:00",
+      "teamName": "Matheus",
+      "arena": "Pavilhão",
+      "lane": "14",
+      "details": {
+        "teamMembers": ["Matheus"],
+        "category": "Iniciante",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 push up down dog \n60 single under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T11:42:00",
+      "teamName": "Aninha",
+      "arena": "Pavilhão",
+      "lane": "8",
+      "details": {
+        "teamMembers": ["Aninha"],
+        "category": "Scaled",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 kipping pull ups \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T11:46:00",
+      "teamName": "Vitinho",
+      "arena": "Externa",
+      "lane": "4",
+      "details": {
+        "teamMembers": ["Vitinho"],
+        "category": "RX",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nThrusters \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m barril farm carry \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T11:58:00",
+      "teamName": "Renan",
+      "arena": "Externa",
+      "lane": "2",
+      "details": {
+        "teamMembers": ["Renan"],
+        "category": "RX",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nThrusters \nBurpee over the sandbag \n1min off \nEstação 2 \n20 air squats \n20m barril farm carry \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T13:00:00",
+      "teamName": "Parede suja chão sujo",
+      "arena": "Externa",
+      "lane": "4",
+      "details": {
+        "teamMembers": ["Luke", "Guizão", "Carina"],
+        "category": "Iniciante",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nWorm deadlift \nBurpee over the worm \n1min off \nEstação 2 \n20 air squats (syncro 3) \n20m barril farm carry (1 barril) \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T13:24:00",
+      "teamName": "Team Penta",
+      "arena": "Externa",
+      "lane": "2",
+      "details": {
+        "teamMembers": ["Ari", "Isa", "Karen"],
+        "category": "Scaled",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nWorm clean \nBurpee over the worm \n1min off \nEstação 2 \n20 air squats (syncro 3) \n20m barril farm carry (2 barris) \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T13:36:00",
+      "teamName": "Ana Ju",
+      "arena": "Pavilhão",
+      "lane": "9",
+      "details": {
+        "teamMembers": ["Ana Ju"],
+        "category": "Intermediário",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T13:36:00",
+      "teamName": "Thata",
+      "arena": "Pavilhão",
+      "lane": "13",
+      "details": {
+        "teamMembers": ["Thata"],
+        "category": "Intermediário",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T13:48:00",
+      "teamName": "Eli",
+      "arena": "Pavilhão",
+      "lane": "11",
+      "details": {
+        "teamMembers": ["Eli"],
+        "category": "Master 35+",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T13:48:00",
+      "teamName": "Jé",
+      "arena": "Pavilhão",
+      "lane": "2",
+      "details": {
+        "teamMembers": ["Jé"],
+        "category": "Intermediário",
+        "duration": 10,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T14:32:00",
+      "teamName": "Jump queridos",
+      "arena": "Externa",
+      "lane": "4",
+      "details": {
+        "teamMembers": ["Otavio", "Rafa", "Paulinha"],
+        "category": "Intermediário",
+        "duration": 11,
+        "WOD": "The Ranch \nAMRAP 3 min para cada estação \nEstação 1\n2.4.6.8.10...\nWorm clean and jerk \nBurpee over the worm \n1min off \nEstação 2 \n20 air squats (syncro 3) \n20m barril farm carry (2 barris) \n1min off \nEstação 3 \nMáximo calorias remo"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T14:48:00",
+      "teamName": "Thiago",
+      "arena": "Pavilhão",
+      "lane": "2",
+      "details": {
+        "teamMembers": ["Thiago"],
+        "category": "Intermediário",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T15:00:00",
+      "teamName": "Vitinho",
+      "arena": "Pavilhão",
+      "lane": "6",
+      "details": {
+        "teamMembers": ["Vitinho"],
+        "category": "RX",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T15:12:00",
+      "teamName": "Renan",
+      "arena": "Pavilhão",
+      "lane": "10",
+      "details": {
+        "teamMembers": ["Renan"],
+        "category": "RX",
+        "duration": 9,
+        "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
       }
     }
   ]
 }
-
