@@ -299,6 +299,66 @@
         "duration": 9,
         "WOD": "Hang time \nAMRAP 9 min \n3 Snatch \n9 overhead squat \n15 chest to bar \n60 double under"
       }
+    },
+    {
+      "scheduleTime": "2025-10-05T16:20:00",
+      "teamName": "Parede suja chão sujo",
+      "arena": "Pavilhão",
+      "lane": "",
+      "details": {
+        "teamMembers": ["Luke", "Guizão","Carina"],
+        "category": "Iniciante",
+        "duration": 0,
+        "WOD": ""
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T17:30:00",
+      "teamName": "Matheue",
+      "arena": "Pavilhão",
+      "lane": "",
+      "details": {
+        "teamMembers": ["Matheus"],
+        "category": "Iniciante",
+        "duration": 0,
+        "WOD": ""
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T17:50:00",
+      "teamName": "Meninas intermediária",
+      "arena": "Pavilhão",
+      "lane": "",
+      "details": {
+        "teamMembers": ["Ana Ju", "Thata"],
+        "category": "Intermediário",
+        "duration": 0,
+        "WOD": ""
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T18:00:00",
+      "teamName": "Eli",
+      "arena": "Pavilhão",
+      "lane": "",
+      "details": {
+        "teamMembers": ["Eli"],
+        "category": "Master 35+",
+        "duration": 0,
+        "WOD": ""
+      }
+    },
+    {
+      "scheduleTime": "2025-10-05T18:30:00",
+      "teamName": "Renan",
+      "arena": "Pavilhão",
+      "lane": "",
+      "details": {
+        "teamMembers": ["Renan"],
+        "category": "RX",
+        "duration": 0,
+        "WOD": ""
+      }
     }
   ]
 }
