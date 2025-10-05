@@ -308,8 +308,8 @@
       "details": {
         "teamMembers": ["Luke", "Guizão","Carina"],
         "category": "Iniciante",
-        "duration": 0,
-        "WOD": ""
+        "duration": 6,
+        "WOD": "6 SEATED ROPE CLIMB \n15 BURPEE BOX JUMP OVER \n\nMaior carga do complex: \n1 CLEAN \n1 FRONT SQUAT \n1 JERK"
       }
     },
     {
@@ -320,8 +320,8 @@
       "details": {
         "teamMembers": ["Matheus"],
         "category": "Iniciante",
-        "duration": 0,
-        "WOD": ""
+        "duration": 6,
+        "WOD": "12 SEATED ROPE CLIMB \n15 BURPEE BOX JUMP OVER \n\nMaior carga do complex: \n1 CLEAN \n1 FRONT SQUAT \n1 JERK"
       }
     },
     {
@@ -332,8 +332,8 @@
       "details": {
         "teamMembers": ["Ana Ju", "Thata"],
         "category": "Intermediário",
-        "duration": 0,
-        "WOD": ""
+        "duration": 6,
+        "WOD": "3 ROPE CLIMB \n15 DEFICIT KIPPING HSPU \n15 BURPEE BOX JUMP OVER \nANILHA 45 LBS \n\nMaior carga do complex: \n1 CLEAN \n1 FRONT SQUAT \n1 JERK"
       }
     },
     {
@@ -344,8 +344,8 @@
       "details": {
         "teamMembers": ["Eli"],
         "category": "Master 35+",
-        "duration": 0,
-        "WOD": ""
+        "duration": 6,
+        "WOD": "3 ROPE CLIMB \n15 DEFICIT KIPPING HSPU \n15 BURPEE BOX JUMP OVER \nANILHA 45 LBS \n\nMaior carga do complex: \n1 CLEAN \n1 FRONT SQUAT \n1 JERK"
       }
     },
     {
@@ -356,8 +356,8 @@
       "details": {
         "teamMembers": ["Renan"],
         "category": "RX",
-        "duration": 0,
-        "WOD": ""
+        "duration": 6,
+        "WOD": "3 LEGLESS ROPE CLIMB \n15 DEFICIT STRICT HSPU \n15 BURPEE BOX JUMP OVER \nANILHA 45 LBS \n\nMaior carga do complex: \n1 CLEAN \n1 FRONT SQUAT \n1 JERK"
       }
     }
   ]
